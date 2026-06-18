@@ -1,11 +1,11 @@
-# 🏪 Dark Store Operations Planner
+#  Dark Store Operations Planner
 
 **Full-stack ML platform for Delhi NCR dark store perishables forecasting.**  
 Prophet + LightGBM · FastAPI · Streamlit · HuggingFace Spaces · Docker
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 ```
 darkstore-forecast-app/
@@ -29,7 +29,7 @@ darkstore-forecast-app/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Install Dependencies
 
@@ -66,7 +66,7 @@ bash start.sh
 
 ---
 
-## 🐳 Deploy to HuggingFace Spaces
+##  Deploy to HuggingFace Spaces
 
 ### Option A: Docker Space (Recommended)
 
